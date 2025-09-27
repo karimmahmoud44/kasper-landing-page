@@ -897,6 +897,7 @@ header nav .form i {
 	outline: none;
 }
 .contact .content form textarea.main-input {
+	resize: none;
 	height: 200px;
 }
 .contact .content form input[type="submit"] {
@@ -990,4 +991,5 @@ header nav .form i {
 	font-weight: bold;
 	color: var(--main-color);
 }
+
 /* End Footer */
